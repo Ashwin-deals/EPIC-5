@@ -1,1 +1,1 @@
-# EPIC-5
+# EPIC-5 - Governance, Moderation, Safety and Resilience
